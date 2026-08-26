@@ -1,20 +1,20 @@
 {
   "assets": [
     {
-      "browser_download_url": "https://github.com/DGPASSATUTO/bovinoos-gestor-releases/releases/download/v1.0.87/BovinoOS-Gestor_1.0.87-arm64.apk",
+      "browser_download_url": "https://github.com/DGPASSATUTO/bovinoos-gestor-releases/releases/download/v1.0.88/BovinoOS-Gestor_1.0.88-arm64.apk",
       "content_type": "application/vnd.android.package-archive",
-      "name": "BovinoOS-Gestor_1.0.87-arm64.apk",
-      "size": 23499441
+      "name": "BovinoOS-Gestor_1.0.88-arm64.apk",
+      "size": 23542197
     },
     {
-      "browser_download_url": "https://github.com/DGPASSATUTO/bovinoos-gestor-releases/releases/download/v1.0.87/BovinoOS-Gestor_1.0.87.apk",
+      "browser_download_url": "https://github.com/DGPASSATUTO/bovinoos-gestor-releases/releases/download/v1.0.88/BovinoOS-Gestor_1.0.88.apk",
       "content_type": "application/vnd.android.package-archive",
-      "name": "BovinoOS-Gestor_1.0.87.apk",
-      "size": 43396640
+      "name": "BovinoOS-Gestor_1.0.88.apk",
+      "size": 43438304
     }
   ],
   "body": "Atualização automática oficial do BovinoOS Gestor.",
   "draft": false,
   "prerelease": false,
-  "tag_name": "v1.0.87"
+  "tag_name": "v1.0.88"
 }
